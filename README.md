@@ -23,7 +23,7 @@ As i really love cybersecurity and IoT, I like to make my own cybersecurity tool
 
 | Reference        | Qty | Value / Description                                  | Footprint / Type                                             | Product (link) | Unit price (₹) | Line total (₹) |
 |------------------|-----|-------------------------------------------------------|--------------------------------------------------------------|----------------|----------------|----------------|
-| PCB              | 1   | PCB Manufacturing Service                            | Custom PCB                                                   | PCB Service (Robu) | 1,868.00 | 1,868.00 |
+| PCB              | 1   | PCB Manufacturing Service                            | Custom PCB                                                   | PCB Service (JLCPCB) | 986.91 | 986.91 |
 | U1               | 1   | Adafruit ESP32-C6 Feather (STEMMA QT)                | Feather Module                                               | [ESP32-C6 Feather](https://robu.in/product/stemma-qt-adafruit-esp32-c6-feather) | 1765.00 | 1765.00 |
 | RF1, RF2, RF3    | 3   | NRF24L01+ PA+LNA SMA Wireless Module                 | 2.4GHz Transceiver                                           | [NRF24L01+ PA LNA](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km) | 135.00 | 405.00 |
 | BAT1             | 1   | 3.7V 5200mAh LiPo Battery (25C)                      | LiPo Pack                                                    | [5200mAh 1S 25C LiPo](https://robu.in/product/orange-5200mah-1s-25c-3-7-v-lithium-polymer-battery-pack-li-po) | 1398.00 | 1398.00 |
